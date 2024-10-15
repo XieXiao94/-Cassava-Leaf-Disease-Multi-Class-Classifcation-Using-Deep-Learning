@@ -3,11 +3,11 @@ About this project:
 
 This project will study 21K images of cassava leaves with the corresponding disease classes. The goal is to build a model to predict the cassava leaf disease classification. There are five disease classes. class 0: Cassava Bacterial Blight disease, class 1: Cassava Brown Streak Disease, class 2: Cassava Green Mottle disease, class 3: Cassava Mosaic Disease disease, class 4: Healthy. The type of learning is deep learning and the type of task is multi-class image classification.
 
-    The deep learning models that will be used are CNN and vgg16.
+The deep learning models that will be used are CNN and vgg16.
 
-    CNN is a convolution neural network that utilizes neural networks to learn features or patterns from images for recognition and classification.
+CNN is a convolution neural network that utilizes neural networks to learn features or patterns from images for recognition and classification.
 
-    VGG16 is a deeper formate of the CNN model. It has 16 layers.
+VGG16 is a deeper formate of the CNN model. It has 16 layers.
 
  Data Source: 
 
