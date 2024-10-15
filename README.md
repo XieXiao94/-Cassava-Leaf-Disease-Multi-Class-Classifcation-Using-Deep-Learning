@@ -1,5 +1,4 @@
-
-2. About this project:
+About this project:
 
     This project will study 21K images of cassava leaves with the corresponding disease classes. The goal is to build a model to predict the cassava leaf disease classification. There are five disease classes. class 0: Cassava Bacterial Blight disease, class 1: Cassava Brown Streak Disease, class 2: Cassava Green Mottle disease, class 3: Cassava Mosaic Disease disease, class 4: Healthy. The type of learning is deep learning and the type of task is multi-class image classification.
 
@@ -9,15 +8,15 @@
 
     VGG16 is a deeper formate of the CNN model. It has 16 layers.
 
-3. Data Source: 
+ Data Source: 
 
   The dataset is from a Kaggle project named ' Cassava Leaf Disease Classification'.
 
-4. Citation: 
+ Citation: 
 
   Cassava leaf disease classification. (n.d.). Kaggle. https://www.kaggle.com/competitions/cassava-leaf-disease-classification/overview
 
-5. Dataset: 
+ Dataset: 
   
   The dataset contains train images, test images and train_labels.csv. The train and test images are cassava plant images. The train image has 21K+ images and the test image has 1 image. All images are in 800 x 600 dimensions, stored in a directory structure with a .jpg extension.
 
